@@ -1,0 +1,16 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"TFDIR","ENLFDIR","TFTIT"
+],
+"ASSOCIATED":
+["Z_FM_PARAMETERS"],
+"BASE":
+[],
+"ANNO_REF":
+[],
+"VERSION":0
+}
+}

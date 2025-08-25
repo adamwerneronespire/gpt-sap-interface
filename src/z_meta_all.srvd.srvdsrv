@@ -6,4 +6,10 @@ define service Z_META_ALL {
   expose Z_FunctionModules as FunctionModules;
   expose Z_FM_Parameters   as FunctionModuleParameters;
   expose Z_BADI_Definition as BadiDefinitions;
+  expose Z_Data_Elements   as DataElements;
+  expose Z_Domains         as Domains;
+  expose Z_Domain_Values   as DomainValues;
+  expose Z_TADIR_Objects   as TadirObjects;
+  expose Z_Programs        as Programs;
+  expose Z_Message_Texts   as MessageTexts;
 }

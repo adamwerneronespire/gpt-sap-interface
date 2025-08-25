@@ -1,0 +1,16 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"DD01L"
+],
+"ASSOCIATED":
+["Z_DOMAIN_VALUES"],
+"BASE":
+[],
+"ANNO_REF":
+[],
+"VERSION":0
+}
+}
